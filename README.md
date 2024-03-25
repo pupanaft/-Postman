@@ -1,14 +1,9 @@
 Регистрируемся (Registration)
-
-(image-1.png)
-(image.png)
-
+[alt text](image-1.png)
+[alt text](image.png)
 Логинимся (Authentication)
-
-(image-2.png)
-(image-3.png)
-(image-4.png)
-
+[alt text](image-2.png)
+[alt text](image-3.png)
+[alt text](image-4.png)
 Используя заголовок авторизации получить данные текущего пользователя (Endpoints -> Get Current User)
-
-(image-5.png)
+[alt text](image-5.png)
